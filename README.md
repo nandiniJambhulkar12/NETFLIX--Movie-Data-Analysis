@@ -1,0 +1,1 @@
+This project analyzes a Netflix dataset to uncover trends, insights, and patterns related to movies and TV shows. The analysis focuses on understanding content popularity, genres, ratings, and trends over time.
